@@ -6,3 +6,7 @@
 4。时钟系统选择100Hz。
 #### 模块说明
 tb文件夹为仿真文件num_tb.v，num.v为主模块
+#### 实验平台
+Quartus Prime Lite Eidition 23.1
+Modelsim 10.4 SE
+Intel/Altera MAX II EPM1270T144C5N
